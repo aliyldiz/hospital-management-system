@@ -29,7 +29,7 @@ The Hospital Management System is a comprehensive software solution designed to 
 Follow these steps to set up the project on your local machine:
 
 1. ### Clone the Repository
-
+ 
   ```
   git clone git clone https://github.com/aliyldiz/hospital-management-system.git
   cd news-blog
