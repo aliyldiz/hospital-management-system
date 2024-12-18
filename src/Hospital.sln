@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Web", "Hospital.Web\Hospital.Web.csproj", "{5D604906-2641-4293-8956-A5DE09EC66BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{9F258DC4-F86F-4D21-8420-E658E212020C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Repositories", "Hospital.Repositories\Hospital.Repositories.csproj", "{0793A40F-A8E4-45E4-9812-CEAF97C85BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{C78E347A-DEDE-4C36-B149-6B8406C5639F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{38E93B88-0B7D-4620-819F-CB94AE8A64BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Utilities", "Hospital.Utilities\Hospital.Utilities.csproj", "{374BEB8E-A588-4860-BA72-7332CEDE8E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D604906-2641-4293-8956-A5DE09EC66BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D604906-2641-4293-8956-A5DE09EC66BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D604906-2641-4293-8956-A5DE09EC66BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D604906-2641-4293-8956-A5DE09EC66BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F258DC4-F86F-4D21-8420-E658E212020C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F258DC4-F86F-4D21-8420-E658E212020C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F258DC4-F86F-4D21-8420-E658E212020C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F258DC4-F86F-4D21-8420-E658E212020C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0793A40F-A8E4-45E4-9812-CEAF97C85BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0793A40F-A8E4-45E4-9812-CEAF97C85BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0793A40F-A8E4-45E4-9812-CEAF97C85BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0793A40F-A8E4-45E4-9812-CEAF97C85BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78E347A-DEDE-4C36-B149-6B8406C5639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78E347A-DEDE-4C36-B149-6B8406C5639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78E347A-DEDE-4C36-B149-6B8406C5639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78E347A-DEDE-4C36-B149-6B8406C5639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E93B88-0B7D-4620-819F-CB94AE8A64BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E93B88-0B7D-4620-819F-CB94AE8A64BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E93B88-0B7D-4620-819F-CB94AE8A64BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E93B88-0B7D-4620-819F-CB94AE8A64BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374BEB8E-A588-4860-BA72-7332CEDE8E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374BEB8E-A588-4860-BA72-7332CEDE8E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374BEB8E-A588-4860-BA72-7332CEDE8E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374BEB8E-A588-4860-BA72-7332CEDE8E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
