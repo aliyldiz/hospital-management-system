@@ -15,7 +15,7 @@
 <img width="1800" alt="10" src="https://github.com/user-attachments/assets/fc54d883-89ec-4820-9349-c17ddd9d3733" />
 
 ## Overview
-
+ 
 The Hospital Management System is a comprehensive software solution designed to streamline hospital operations. This project provides functionalities for managing patients, doctors, appointments, and other hospital-related activities efficiently.
 
 ## Technologies Used
