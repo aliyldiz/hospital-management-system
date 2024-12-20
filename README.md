@@ -32,7 +32,7 @@ Follow these steps to set up the project on your local machine:
  
   ```
   git clone git clone https://github.com/aliyldiz/hospital-management-system.git
-  cd news-blog
+  cd hospital-management-system
   ```
 
 2. ### Install Dependencies
